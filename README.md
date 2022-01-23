@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 RANDOM QUOTE MACHINE
 
 User Story #1: I can see a wrapper element with a corresponding id="quote-box".
@@ -27,3 +28,6 @@ You can build your project by using this CodePen template and clicking Save to c
 Once you're done, submit the URL to your working project with all its tests passing.
 
 Note: Twitter does not allow links to be loaded in an iframe. Try using the target="_blank" or target="_top" attribute on the #tweet-quote element if your tweet won't load. target="_top" will replace the current tab so make sure your work is saved.
+=======
+# RandomQuoteMachine
+>>>>>>> 5fe1ba6a2a000fa796ccb7057d1bee7e8fbd6af0
