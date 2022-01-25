@@ -8,7 +8,7 @@ The overall aim was to acheive a Random Quote Machine with the use of JavaScript
 
 ![Random Quote Machine](images/responsive-design.jpg) 
 
-A deployed version of my website can be found [here](elliej87.github.io/randomquotemachine/)
+A deployed version of my website can be found [here](https://elliej87.github.io/RandomQuoteMachine/)
 
 This domain will allow you to access the Random Quote Machine website.
 
