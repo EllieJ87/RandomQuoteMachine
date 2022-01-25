@@ -8,7 +8,7 @@ The overall aim was to acheive a Random Quote Machine with the use of JavaScript
 
 ![Random Quote Machine](images/responsive-design.jpg) 
 
-A deployed version of my website can be found [here](elliej87.github.io/randomquotemachine//)
+A deployed version of my website can be found [here](https://elliej87.github.io/RandomQuoteMachine/)
 
 This domain will allow you to access the Random Quote Machine website.
 
@@ -133,7 +133,7 @@ The wireframes were created using [Adobe XD](https://www.adobe.com/uk/products/x
 
 Desktop & Laptop | Tablet & Mobile
 ------------------------ | ---------------------
-[Home](https://github.com/EllieJ87) | [Home](https://github.com/EllieJ87)
+[Home](https://github.com/EllieJ87/RandomQuoteMachine/blob/master/images/home-desktop.png) | [Home](https://github.com/EllieJ87/RandomQuoteMachine/blob/master/images/home-mobile.png)
 
 There are some differences between my wireframes and my final website. 
 
@@ -314,7 +314,7 @@ The hosting platform that I've used for my project is GitHub Pages. To deploy my
 
 ### <a name="repositorylink">Repository Link</a>
 
-[Random Quote Machine](https://elliej87.github.io/)
+[Random Quote Machine](https://elliej87.github.io/RandomQuoteMachine/)
 
 ### <a name="runningcodelocally">Running Code Locally</a>
 
