@@ -184,7 +184,7 @@ Google Chrome Dev Tools
 
 [Google Fonts](https://fonts.google.com)
 
--	Google fonts was used into the HTML which is used on all pages throughout the project
+-	Google fonts was used into the HTML which is used throughout this project
 
 [HTML5](https://en.wikipedia.org/wiki/HTML5)
 
